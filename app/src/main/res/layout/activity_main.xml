@@ -65,7 +65,7 @@
             <EditText
                 android:id="@+id/editTextText3"
                 android:layout_width="121dp"
-                android:layout_height="45dp"
+                android:layout_height="48dp"
                 android:ems="10"
                 android:gravity="center_horizontal"
                 android:inputType="number"
@@ -117,7 +117,7 @@
             <EditText
                 android:id="@+id/editTextText2"
                 android:layout_width="121dp"
-                android:layout_height="45dp"
+                android:layout_height="48dp"
                 android:ems="10"
                 android:gravity="center_horizontal"
                 android:inputType="number"
